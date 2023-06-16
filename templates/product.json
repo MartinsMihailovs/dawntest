@@ -104,6 +104,22 @@
             "image_ratio": "square",
             "enable_quick_add": true
           }
+        },
+        "5974f050-0add-41a1-b659-ad7eec533911": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
+        },
+        "5f67bab9-3e90-496b-b9c8-b4055d87ba4b": {
+          "type": "popup",
+          "settings": {
+            "text": "Pop-up link text",
+            "page": "contact"
+          }
         }
       },
       "block_order": [
@@ -120,7 +136,9 @@
         "collapsible-row-2",
         "collapsible-row-3",
         "share",
-        "0076def4-efec-4003-b6a9-d0996c1c1925"
+        "0076def4-efec-4003-b6a9-d0996c1c1925",
+        "5974f050-0add-41a1-b659-ad7eec533911",
+        "5f67bab9-3e90-496b-b9c8-b4055d87ba4b"
       ],
       "settings": {
         "enable_sticky_info": true,
