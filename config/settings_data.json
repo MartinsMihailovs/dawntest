@@ -112,7 +112,7 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/Screenshot_2023-06-08_at_12.31.36.png",
+    "checkout_header_image": "shopify:\/\/shop_images\/Screenshot_2023-06-08_at_12.31.36.png",
     "checkout_logo_size": "large",
     "sections": {
       "main-password-header": {
