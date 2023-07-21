@@ -1,5 +1,60 @@
 {
   "sections": {
+    "e556e0ac-77be-46bf-b6e5-8f43739f509a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--19161849332031__e556e0ac-77be-46bf-b6e5-8f43739f509a-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woood-gravure-small-tv-cabinet-black-natural-or-espresso.webp",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--19161849332031__e556e0ac-77be-46bf-b6e5-8f43739f509a-slide-2": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/clay-handling.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19161849332031__e556e0ac-77be-46bf-b6e5-8f43739f509a-slide-1",
+        "template--19161849332031__e556e0ac-77be-46bf-b6e5-8f43739f509a-slide-2"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -210,68 +265,15 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "e556e0ac-77be-46bf-b6e5-8f43739f509a": {
-      "type": "slideshow",
-      "blocks": {
-        "template--19161849332031__e556e0ac-77be-46bf-b6e5-8f43739f509a-slide-1": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--19161849332031__e556e0ac-77be-46bf-b6e5-8f43739f509a-slide-2": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--19161849332031__e556e0ac-77be-46bf-b6e5-8f43739f509a-slide-1",
-        "template--19161849332031__e556e0ac-77be-46bf-b6e5-8f43739f509a-slide-2"
-      ],
-      "settings": {
-        "layout": "grid",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": true,
-        "change_slides_speed": 3,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
     }
   },
   "order": [
+    "e556e0ac-77be-46bf-b6e5-8f43739f509a",
     "image_banner",
     "rich_text",
     "featured_collection",
     "collage",
     "video",
-    "multicolumn",
-    "e556e0ac-77be-46bf-b6e5-8f43739f509a"
+    "multicolumn"
   ]
 }
