@@ -6,7 +6,6 @@
         "template--19161849332031__e556e0ac-77be-46bf-b6e5-8f43739f509a-slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/woood-gravure-small-tv-cabinet-black-natural-or-espresso.webp",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -24,7 +23,6 @@
         "template--19161849332031__e556e0ac-77be-46bf-b6e5-8f43739f509a-slide-2": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/clay-handling.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -153,7 +151,7 @@
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "enable_quick_add": true,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 28,
