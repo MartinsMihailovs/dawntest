@@ -1,5 +1,14 @@
 {
   "sections": {
+    "custom_liquid_7HRRUj": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"elfsight-sapp-fb6b84d5-95f3-4c2d-8ad0-362aae368d95\"><\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "e556e0ac-77be-46bf-b6e5-8f43739f509a": {
       "type": "slideshow",
       "blocks": {
@@ -284,6 +293,7 @@
       "block_order": [
         "gropulse_google_reviews_four_column_style_2_cFbUWY"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
@@ -300,21 +310,14 @@
       "block_order": [
         "google_reviews_plus_app_block_ya4mjf"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
-      }
-    },
-    "custom_liquid_7HRRUj": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"elfsight-sapp-fb6b84d5-95f3-4c2d-8ad0-362aae368d95\"><\/div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     }
   },
   "order": [
+    "custom_liquid_7HRRUj",
     "e556e0ac-77be-46bf-b6e5-8f43739f509a",
     "image_banner",
     "rich_text",
@@ -323,7 +326,6 @@
     "video",
     "multicolumn",
     "1710350660926a57fd",
-    "17103511631b4bc394",
-    "custom_liquid_7HRRUj"
+    "17103511631b4bc394"
   ]
 }
