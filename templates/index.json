@@ -1,14 +1,5 @@
 {
   "sections": {
-    "custom_liquid_7HRRUj": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"elfsight-sapp-fb6b84d5-95f3-4c2d-8ad0-362aae368d95\"><\/div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "e556e0ac-77be-46bf-b6e5-8f43739f509a": {
       "type": "slideshow",
       "blocks": {
@@ -293,7 +284,6 @@
       "block_order": [
         "gropulse_google_reviews_four_column_style_2_cFbUWY"
       ],
-      "disabled": true,
       "settings": {
         "include_margins": true
       }
@@ -310,14 +300,45 @@
       "block_order": [
         "google_reviews_plus_app_block_ya4mjf"
       ],
-      "disabled": true,
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "171040922828035743": {
+      "type": "apps",
+      "blocks": {
+        "google_reviews_carousel_widget_block_Qix3Ly": {
+          "type": "shopify:\/\/apps\/google-reviews\/blocks\/carousel-widget-block\/8b378e9e-c56d-47ce-a754-feca5e0caf59",
+          "settings": {
+            "themeId": "light",
+            "autoscroll": true,
+            "showRating": true,
+            "showReviewPhotos": true,
+            "writeReview": true,
+            "fixedReviewsHeight": false
+          }
+        },
+        "google_reviews_carousel_widget_static_plate_block_qTWCE8": {
+          "type": "shopify:\/\/apps\/google-reviews\/blocks\/carousel-widget-static-plate-block\/8b378e9e-c56d-47ce-a754-feca5e0caf59",
+          "settings": {
+            "themeId": "light",
+            "autoscroll": true,
+            "showReviewPhotos": true,
+            "writeReview": true,
+            "fixedReviewsHeight": false
+          }
+        }
+      },
+      "block_order": [
+        "google_reviews_carousel_widget_block_Qix3Ly",
+        "google_reviews_carousel_widget_static_plate_block_qTWCE8"
+      ],
       "settings": {
         "include_margins": true
       }
     }
   },
   "order": [
-    "custom_liquid_7HRRUj",
     "e556e0ac-77be-46bf-b6e5-8f43739f509a",
     "image_banner",
     "rich_text",
@@ -326,6 +347,7 @@
     "video",
     "multicolumn",
     "1710350660926a57fd",
-    "17103511631b4bc394"
+    "17103511631b4bc394",
+    "171040922828035743"
   ]
 }
