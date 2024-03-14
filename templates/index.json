@@ -303,6 +303,15 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "custom_liquid_7HRRUj": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"elfsight-sapp-fb6b84d5-95f3-4c2d-8ad0-362aae368d95\"><\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -314,6 +323,7 @@
     "video",
     "multicolumn",
     "1710350660926a57fd",
-    "17103511631b4bc394"
+    "17103511631b4bc394",
+    "custom_liquid_7HRRUj"
   ]
 }
